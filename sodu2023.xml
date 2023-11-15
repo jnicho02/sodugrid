@@ -1,0 +1,1977 @@
+
+<?xml version='1.0' encoding='utf-8'?>
+<schedule>
+  <version>0.2</version>
+  <conference>
+    <acronym>sotmeu2023</acronym>
+    <title>State of the Map Europe 2023</title>
+    <start>2023-11-10</start>
+    <end>2023-11-12</end>
+    <days>3</days>
+    <timeslot_duration>00:30</timeslot_duration>
+    <base_url>https://stateofthemap.eu/</base_url>
+  </conference>
+  <day index="1" date="2023-11-10" start="2023-11-10T14:00:00+01:00" end="2023-11-10T20:00:00+01:00">
+    <room name="Marco Polo">
+      <event guid="54218ad6-cc38-54c9-a8f4-8d74d8ca65f4" id="3">
+        <date>2023-11-10T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>welcome-session</slug>
+        <url>https://stateofthemap.eu/program/welcome-session</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Welcome Session</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Join us for the welcoming session of our networking evening</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="2">OSM BE</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="192396dd-a38c-5be3-be06-4b0552325767" id="4">
+        <date>2023-11-10T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Marco Polo</room>
+        <slug>meet-your-mapper</slug>
+        <url>https://stateofthemap.eu/program/meet-your-mapper</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Meet Your Mapper</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Join us for an energetic engagement session. Network with fellow attendees and have some fun!</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="3">Ilya Zverev &amp; Gregory Marler</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Outside">
+      <event guid="bd9459f6-241a-53a3-aeca-5f4aa7451ba9" id="1">
+        <date>2023-11-10T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Outside</room>
+        <slug>mobile-mapping-workshop</slug>
+        <url>https://stateofthemap.eu/program/mobile-mapping-workshop</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mobile mapping workshop</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>A chance to improve your mobile mapping skills, or to learn if you haven’t done it before. Bring a smartphone or tablet with your favourite mapping app and practice it in the street.
+
+We will try out StreetComplete, Vespucci and Every Door. Feel free to install one or more of these apps before the session begins.
+
+Meeting point: Antwerp Berchem Station</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="1">Andrew Hain</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="24c5f9b0-92d8-558e-8d90-51b7a26b43bc" id="2">
+        <date>2023-11-10T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Outside</room>
+        <slug>walk-in-registration</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Walk-in &amp; Registration</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="c79b2a15-5b00-5f55-8c97-983317983a38" id="5">
+        <date>2023-11-10T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Outside</room>
+        <slug>networking-drinks</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Networking &amp; Drinks</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2023-11-11" start="2023-11-11T08:30:00+01:00" end="2023-11-11T20:30:00+01:00">
+    <room name="Marco Polo">
+      <event guid="9b05a9e9-cfc7-5f1c-bfa8-64c4f1f5f7ba" id="7">
+        <date>2023-11-11T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>opening-session</slug>
+        <url>https://stateofthemap.eu/program/opening-session</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Opening Session</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Join us for the official opening session of SotM EU 2023</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="4">SotM EU Team featuring Mike Harrell</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="58647cb6-3cb7-536c-9d9b-7e4bf30f7c3c" id="8">
+        <date>2023-11-11T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>opening-keynote</slug>
+        <url>https://stateofthemap.eu/program/opening-keynote</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Opening Keynote</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Join us for an exciting keynote session by Allan.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="5">Allan Mustard</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="83db75e6-1ce2-5b2e-8f87-c1fc71932081" id="10">
+        <date>2023-11-11T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>hiking-routes-the-past-the-present-and-the-future</slug>
+        <url>https://stateofthemap.eu/program/hiking-routes-the-past-the-present-and-the-future</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Hiking Routes - the Past, the Present and the Future</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>This talk takes a look at the state of hiking routes in Europe and other parts of the world. We look at the different systems and traditions for marking hiking routes in different countries and compare how they are
+mapped in OSM. We look at the strong and weak points of the current tagging.
+
+What works well, what parts are still controversial. The talk is meant to jumpstart a discussion at the conference between hiking enthusiasts from different countries.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="6">Sarah Hoffmann</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="944e212c-1191-598d-8f79-cae189d2db4d" id="14">
+        <date>2023-11-11T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>quantifying-europes-cycling-infrastructure-using-openstreetmap</slug>
+        <url>https://stateofthemap.eu/program/quantifying-europes-cycling-infrastructure-using-openstreetmap</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Quantifying Europe’s Cycling Infrastructure Using OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>There is great demand for data on cycling infrastructure, but currently no official source provides this kind of information on a European scale. The European Cyclists’ Federation (ECF) strives to fill the gap by extracting cycling infrastructure data from OpenStreetMap (OSM). In the Quantifying Europe’s Cycling Infrastructure Using OpenStreetMap (QECIO) dashboard we present the length of six different types of cycling infrastructure across 37 European countries and 1502 regions (level 3 of the Nomenclature of Territorial Units for Statistics). We also quantify the availability of additional data about cycling infrastructure and several specific parameters, such as uptake of contraflow cycling.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="10">Aleksander Buczyński</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="6dbf29fa-64ba-5a74-b764-bc1e36f317db" id="16">
+        <date>2023-11-11T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>does-openstreetmap-need-a-trustmark</slug>
+        <url>https://stateofthemap.eu/program/does-openstreetmap-need-a-trustmark</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Does OpenStreetMap Need a Trustmark?</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Some users doubt the quality of OpenStreetMap (OSM) data and want a trustmark to certify it. We think that OSM data is already fit for many uses and does not need a trustmark. We show examples of tools that measure and evaluate OSM data quality in different aspects. We invite you to join our session and discuss these tools.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="12">Stefan Keller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="3b1e5e72-5d2a-5dca-8f8f-1aba2f6f5102" id="21">
+        <date>2023-11-11T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>the-local-knowledge-dilemma-a-data-driven-alert-for-osm</slug>
+        <url>https://stateofthemap.eu/program/the-local-knowledge-dilemma-a-data-driven-alert-for-osm</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The Local Knowledge Dilemma: A Data-Driven Alert for OSM</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Is the local knowledge in OpenStreetMap built to last? Our data-driven study reveals a a critical issue masked by the upward trend in contributions. This presentation will delve into the implications of this unsustainability and why immediate intervention is essential for the future of OSM</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="15">Pete Masters</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="63dc33d5-c1e7-5fc3-8ef5-5b574c0dbacf" id="25">
+        <date>2023-11-11T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>sane-limits-for-new-accounts</slug>
+        <url>https://stateofthemap.eu/program/sane-limits-for-new-accounts</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Sane Limits for New Accounts</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Every now and then people express concerns that part of the OpenStreetMap data might get vandalized. While both the majority of those unhelpful edits are rather incompetence than malice and they account olny for a small part of all new users, a discussion on community.osm.org about limits for new accounts found a lot of attention. However, the discussion has shown that people there had no idea about the real numbers.
+
+We will look into actual behaviour of new accounts within the first hour, the first 24 hours, and the first 30 days of activity by applying various metrics. This should help to get any future such discussion sufficiently evidence based.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="19">Roland Olbricht</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="732c34d5-4d7c-5246-b3ef-275992183f83" id="28">
+        <date>2023-11-11T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>osm-in-belgian-train-stations-welcome-on-board</slug>
+        <url>https://stateofthemap.eu/program/osm-in-belgian-train-stations-welcome-on-board</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OSM in Belgian train stations: welcome on board</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>For almost one year, Champs-Libres have been helping the SNCB Innovation Lab for reusing OSM data from Belgian train stations to create some new services for travelers. A first application is to provide information to the travelers about the accessibility of the railway platforms for bikes, in a dedicated route planner (BikeOnTrain Beta). In this talk, we’ll tell how and until where we’ve been so far.
+We work on train station platform data and more specifically on their so-called accessibility objects: elevators, escalators, bike ramps, stairs, footways, etc. To our knowledge, it is the first time OSM data from train stations in Belgium was used in a specific application. More generally, we have also had the impression it is the first time a routeplanner gives a clear view to travelers on the different options to reach a platform.
+When we started the project, OSM data in the Belgian stations had varying degrees of completeness and quality. Fortunately, all train stations and 95% of the platforms were present in OSM. The quality of accessibility objects data was rather good, despite it is hard to quantitatively assess its completeness.
+With the help of the Belgian OSM community and some paid jobbers, we gradually improve the OSM data by adding missing accessibility objects in railway platforms. Dissemination of information was made through a chat room, a wiki page, the writing of a tutorial and some OSM diary posts. We will share some tips and tricks learned from the field when mapping stations.
+There are more mature examples of successful use of OSM data by railways companies, notably from France (SNCF). As train and OSM enthusiasts, we’d be excited about further development of practices around improving OSM data in railway stations. We also see a paved way for collaborations among railway companies for the use of OSM data.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="22">Julien Minet</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="a266cdb5-32af-54b4-bd41-fb73bad8240f" id="31">
+        <date>2023-11-11T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>mapillary-2-billion-images-and-beyond</slug>
+        <url>https://stateofthemap.eu/program/mapillary-2-billion-images-and-beyond</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mapillary: 2 billion images and beyond</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Mapillary is an open platform for street-level imagery and map data that began in 2013. Since then over 2 billion images have been contributed from around the world. Imagery has been contributed from horseback in Kyrgyzstan, boats in the canals of Amsterdam, and bicycles on the streets and trails of Sydney. With Mapillary surpassing 2 billion images, we’d like to summarize the latest features, acknowledge some of the amazing contributions, and hint at some of the updates that are coming.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="24">Edoardo Neerhut</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="77cd6426-0242-56e2-ba88-c00eb2b4d5c0" id="35">
+        <date>2023-11-11T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Marco Polo</room>
+        <slug>panoramax-the-full-floss-alternative-for-your-ground-level-imagery</slug>
+        <url>https://stateofthemap.eu/program/panoramax-the-full-floss-alternative-for-your-ground-level-imagery</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Panoramax: the full FLOSS alternative for your ground level imagery</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Panoramax is a decentralized and federated project to collect and share ground level imagery under open licences using open standard APIs.
+
+Initiated almost a year ago by OpenStreetMap France and IGN, it is time to discover the current state of this project, available tools, APIs, content and first reuses.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="29">Christian Quest</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Orangerie">
+      <event guid="77cb3e2c-19fb-5013-9572-35f966a2bd44" id="11">
+        <date>2023-11-11T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>vector-tiles-with-the-shortbread-schema</slug>
+        <url>https://stateofthemap.eu/program/vector-tiles-with-the-shortbread-schema</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Vector tiles with the Shortbread schema</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In 2022, Geofabrik released a vector tile schema called "Shortbread", under the CC-0 lience (for the schema) and FTWPL (for its implementation).
+
+This talk briefly discusses the motivation for developing an additional schema from scratch. It then presents the schema itself and the toolchain used at Geofabrik to generate world-wide vector tile sets with Tilemaker, on machines with no more than 128 GB of RAM.
+
+The talk also presents a method of using vector tiles as Mapnik data source. This is a workflow we use at Geofabrik to produce server-side raster tiles from vector tile data sources, in order to support older clients.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="7">Michael Reichert</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="1dfcefce-f9a2-5926-9e72-1b93016e9124" id="15">
+        <date>2023-11-11T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>clearance-monitoring-and-extracting-data-from-osm-under-quality-constraints</slug>
+        <url>https://stateofthemap.eu/program/clearance-monitoring-and-extracting-data-from-osm-under-quality-constraints</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Clearance: monitoring and extracting data from OSM under quality constraints</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>"Clearance" aim to be a tool for produce OSM extract and keep it up to date while respecting quality rule. It based on local partial updates. Rejected data cluster should be fixed in OSM. OSM changes to be reviewed could be monitored by communities of interest.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="11">Frédéric Rodrigo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="43d965fd-4312-56d3-8a0a-08a3e2419a0f" id="17">
+        <date>2023-11-11T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>a-hiking-map-created-by-the-club-alpino-italiano-parma-section</slug>
+        <url>https://stateofthemap.eu/program/a-hiking-map-created-by-the-club-alpino-italiano-parma-section</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>A hiking map created by the Club Alpino Italiano - Parma Section</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In 2022 the section of Parma of the Club Alpino Italiano (CAI) created a new 1:25,000 scale hiking trails map of the Parma Apennines. It is a series of 7 printed maps of 70x100 cm format with front/back cartography. The maps were created using OpenStreetMap (OSM) data, with the hiking theme (and more) entirely developed, updated and monitored by the volunteers of the CAI section directly on the OSM platform. We want to describe the entire process of creating the maps, starting from data processing and cartographic techniques, up to printing in the typography.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="13">Marco Barbieri</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d7892ce0-bae1-54c8-9260-b24321776099" id="22">
+        <date>2023-11-11T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>the-art-of-openstreetmap</slug>
+        <url>https://stateofthemap.eu/program/the-art-of-openstreetmap</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The Art of OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>What art has been created with OpenStreetMap? An introduction and a showcase of creative expressions from our data.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="16">Gregory Marler</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="b0c5cc5d-6f09-5d5f-8392-837e1ead495d" id="26">
+        <date>2023-11-11T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>collecting-street-level-pictures-with-centimetric-geolocation-at-low-cost</slug>
+        <url>https://stateofthemap.eu/program/collecting-street-level-pictures-with-centimetric-geolocation-at-low-cost</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Collecting street level pictures with centimetric geolocation at low cost</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Street level pictures are very useful to contribute to OSM data, 360° pictures are even more useful, and what's even more useful is to have thousands and thousands of precisely geolocated 360° pictures. How can this be achieved efficiently and at low cost ?
+
+At Carto’Cité we designed and built the RTK360 kit, a low-tech solution that achieves this goal. It combines a 360° action cam such as the GoPro Max or Ricoh Theta Z1, together with the Sparkfun RTK Surveyor. RTK stands for Real Time Kinematic, this is a satellite navigation system (GNSS) that achieves centimeter-level accuracy by applying corrections provided by a reference station. Networks of RTK stations have existed for years, but they require costly equipment and a costly subscription to obtain the correction data.
+
+However this is changing now : the Centipede network is a freely accessible network of RTK stations that covers a large part of France and is quickly extending over Belgium, Switzerland, Hungary. This growth has been made possible thanks to RTKBase, an open source and open hardware RTK station designed by Stéphane PÉNEAU, an amazing maker and Carto’Cité associate. This means you too can build an RTK station and an RTK rover, and enjoy taking and sharing thousands and thousands of 360° pictures with centimeter-level accuracy.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="20">Antoine Riche</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="62b13ed6-cb5e-5eb9-9795-748f542789ea" id="29">
+        <date>2023-11-11T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>exploring-osm-based-geospatial-datasets-insights-from-the-italian-national-summary-database-dbsn</slug>
+        <url>https://stateofthemap.eu/program/exploring-osm-based-geospatial-datasets-insights-from-the-italian-national-summary-database-dbsn</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Exploring OSM-based geospatial datasets: insights from the Italian National Summary Database (DBSN)</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In recent years (and months), various open datasets including a varying degree of information derived from OpenStreetMap have been released and made available to the geographic community for broader reuse. Some international examples include, among others, Microsoft GlobalML Building Footprints, Overture Maps Data, EUBUCCO, Digital Building Stock Model (DBSM). In Italy, the National Summary Database (DBSN) has recently been published at a national coverage level. All these datasets have different modes of access, origins, purposes, and characteristics that make them more or less suitable for the purposes of users who may be interested in reusing them. The presentation aims to provide an overview of the current status and key characteristics of these open geospatial datasets, providing detailed examples with a particular focus on the DBSN, which has been recently updated by the IGM (Italian Military Geographical Institute) with data from all Italian regions. Examples of congruences and incongruences with OpenStreetMap data will be presented, along with technical, semantic, and legal opportunities and challenges for integrating these datasets back with OpenStreetMap.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="23">Alessandro Sarretta</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="2c04f921-e1aa-5b84-9509-eb870c7aa01b" id="32">
+        <date>2023-11-11T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>liberated-maps-challenges-opportunities</slug>
+        <url>https://stateofthemap.eu/program/liberated-maps-challenges-opportunities</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Liberated Maps: Challenges &amp; Opportunities</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>There are increased expectations placed on the quality, feature set, performance, and visual appeal of maps. Up until recently, it seemed that free software can never truly compete in the maps space. That is starting to change… This talk will outline how the MapLibre project is setting in motion a revolution for free maps.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="25">Luke Seelenbinder</person>
+          <person id="26">Bart Louwers</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="cff484f1-67bd-5b2e-a632-754d87a59b5c" id="36">
+        <date>2023-11-11T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Orangerie</room>
+        <slug>modern-osm2pgsql-tricks</slug>
+        <url>https://stateofthemap.eu/program/modern-osm2pgsql-tricks</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Modern osm2pgsql tricks</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Over the last few years, osm2pgsql has changed a lot to become faster and easier to use. This talk covers how to use the new features in osm2pgsql for analysis, vector tiles, and anything else you might want to do.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="30">Jochen Topf &amp; Paul Norman</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Outside">
+      <event guid="3317d330-d31e-5b95-9836-bdb0121cd763" id="6">
+        <date>2023-11-11T08:30:00+01:00</date>
+        <start>08:30</start>
+        <duration>01:00</duration>
+        <room>Outside</room>
+        <slug>walk-in-registration</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Walk-in &amp; Registration</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="7227d490-584e-56c5-a2fa-6172a0ff067b" id="9">
+        <date>2023-11-11T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Outside</room>
+        <slug>break</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Break</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="6888689a-d0fc-5c24-84cc-b4f4e83ee5db" id="20">
+        <date>2023-11-11T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>Outside</room>
+        <slug>lunch</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Lunch</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="c9f8222f-4123-5f16-a96c-be03655d4971" id="30">
+        <date>2023-11-11T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Outside</room>
+        <slug>break1</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Break</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="8f53439b-cf25-54b5-8b44-684e115d9de0" id="38">
+        <date>2023-11-11T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>02:00</duration>
+        <room>Outside</room>
+        <slug>social-night</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Social Night</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Sacagawea">
+      <event guid="d83cf2f1-7ae4-56e8-8548-b4af122852f9" id="12">
+        <date>2023-11-11T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>from-belgium-to-europe-can-european-local-chapters-work-together-and-learn-from-each-other</slug>
+        <url>https://stateofthemap.eu/program/from-belgium-to-europe-can-european-local-chapters-work-together-and-learn-from-each-other</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>From Belgium to Europe: can European Local chapters work together and learn from each other?</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Because Belgium is small and complicated, federation is at the core of what we do. That means most of our projects are built to be scalable. Still, we are a tiny organization and can’t do as much as we would like.
+
+We propose a two-part session on this subject.
+
+First we explore the projects of OSMbe that could be interesting on a European scale: camera grants, State of the Map Europe and our corporate membership program.
+
+Second, we invite the participants of the session to bring their ideas to the table. Which of their projects could be scaled up to Europe? What would a Europe-wide collaboration look like? Is there any sense in formal organization?
+
+For the first part, we intend to invite guests who are involved in these projects.
+
+Some context:
+* &lt;a href="https://openstreetmap.be/en/projects/streetlevelimagery.html"&gt;OSM Belgium has a small camera grant project&lt;/a&gt;, financed by Corporate Membership. We are talking with Meta to roll this out towards all of Europe.
+* Our project to run a State of the Map Europe is intended to be a first run of something that might be a new bi-yearly tradition, especially considering the likelihood of more international SotM’s happening outside of Europa
+* After years of unfocused discussion, we started a simple Corporate Membership program (&lt;a href="https://openstreetmap.be/en/support.html"&gt;explained here&lt;/a&gt;), which has been surprisingly successful (see &lt;a href="https://github.com/osmbe/working-group-bylaws/tree/master/corporate-members"&gt;here&lt;/a&gt;). It hasn’t just given us some financial freedom, but also an opportunity to be present at expensive tech conferences (thank you Anyways.eu), support tile infrastructure (thank you Geo6.be) and increase our available manpower (thank you TomTom).
+* We try to build all our projects in a scalable way, though it is not always easy to help them grow elsewhere. Examples are the very succesful &lt;a href="https://welcome.osm.be"&gt;Welcome Tool&lt;/a&gt; and EqualStreetnames. But our &lt;a href="https://github.com/osmbe/road-completion"&gt;Road Completion project&lt;/a&gt; also runs on several areas. And our newer &lt;a href="https://openstreetmap.be/en/projects/traffic-sign.html"&gt;Traffic Sign project&lt;/a&gt; is also designed to be flexible (and the fully automated workflow Github Actions&gt;MapRoulette is in itself interesting for other projects).
+
+We hope to count with the presence of people active in Local Chapters and local communitties from around Europe!</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="8">Joost Schouppe</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="9b4e1e2d-8f0f-574c-b4c1-2604edc8163e" id="18">
+        <date>2023-11-11T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Sacagawea</room>
+        <slug>accessibility-information-for-wheelchair-users-in-osm-and-the-on-wheels-app</slug>
+        <url>https://stateofthemap.eu/program/accessibility-information-for-wheelchair-users-in-osm-and-the-on-wheels-app</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Accessibility information for wheelchair users in OSM and the On Wheels app</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Introduction:
+
+Finding the correct accessibility data about public buildings and public space can be difficult for people with disabilities. Therefor On Wheels has been collecting and sharing data with a user friendly app since 2016. Looking at the future we wanted to make this data open and accessible for everyone by developing a whole new app based on OSM data.
+
+Development process:
+*New accessibility tags for entrances, toilets and elevators.
+*User friendly UI in Flutter
+*Data transfer to OSM
+*Login with personal OSM account
+
+App functionalities:
+*24 categories, like restaurants, hotels, shops, parking spaces, ...
+*Multiple languages
+*An interactive map with categories and wheelchair accessible routes
+*Filter data with personal wheelchair, bike and car profiles
+*Changing locations and adding new locations
+
+Research projects:
+*Create a city dashboard with accessibility data from OSM
+*Using Ai and Machine Learning to integrate smart functions in the app
+*Linking with other apps and platforms</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="14">Robin Julien</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="09058277-453a-592c-8bff-8b369c4bdd1d" id="23">
+        <date>2023-11-11T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Sacagawea</room>
+        <slug>osm-wikidata-map-framework</slug>
+        <url>https://stateofthemap.eu/program/osm-wikidata-map-framework</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OSM-Wikidata Map Framework</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Combining OpenStreetMap and Wikidata allows to leverage the strengths of the two projects to create richer maps. This talk explores how OSM-Wikidata Map Framework simplifies this process.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="17">Daniele Santini</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="2f4d0258-c1e0-59db-a267-e653709e80de" id="27">
+        <date>2023-11-11T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>ungap-the-map-designing-moonshot-cycling-networks</slug>
+        <url>https://stateofthemap.eu/program/ungap-the-map-designing-moonshot-cycling-networks</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Ungap the Map: designing moonshot cycling networks</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Imagine every road in your region was safe for cycling, and many of the short driving trips that happen today were instead done by cycling. Which would be the most used roads? In this workshop, we'll start from OpenStreetMap and public census data and use 3 open source tools at different spatial resolutions to calculate this and design an improved cycling network.
+
+1) First we'll create a national travel demand model, calculate millions of routes in minutes, and determine the most important roads to prioritize.
+
+2) Then we'll use a web app to quickly sketch and share ideas for improvements.
+
+3) Finally we'll design a low-traffic neighbourhood to create quieter residential streets.
+
+The workshop will use open source software developed at the Alan Turing Institute in collaboration with Active Travel England. Minimal technical background required to follow along, and we'll be able to apply the methods anywhere with sufficient OSM coverage.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="21">Dustin Carlino</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="71cb355e-4faa-5097-b0e8-2415e2f2248c" id="33">
+        <date>2023-11-11T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>how-to-be-an-osm-ambassador-insights-into-building-your-community-through-storytelling</slug>
+        <url>https://stateofthemap.eu/program/how-to-be-an-osm-ambassador-insights-into-building-your-community-through-storytelling</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>How to be an OSM Ambassador: insights into building your community through storytelling</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In this session, we will share ideas for telling the global OpenStreetMap story. We will share insights from the early days of OSM ambassadorship and look at current examples of great storytelling. We will help you learn how to create great stories that will inspire others on the many social media channels used by OSM'ers worldwide. And, we will offer insights on how to promote local and regional events, including outreach to potential sponsors.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="27">Courtney Williamson &amp; Steve Coast</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vasco Da Gama">
+      <event guid="b3cf7a51-5c17-5915-9c7f-03f58ac2c26b" id="13">
+        <date>2023-11-11T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Vasco Da Gama</room>
+        <slug>hands-on-id-development</slug>
+        <url>https://stateofthemap.eu/program/hands-on-id-development</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Hands-on iD development</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The iD editor is a central piece of software in the OSM ecosystem and used by thousands of mappers every day. In its over 11 years long development history, it has certainly accumulated some peculiarities and specifics. One example would be its reliance on the "d3" framework for everything UI related, which works quite differently from more modern popular approaches of building single page javascript applications.
+
+This workshop starts with an overview of the technology, architecture and core concepts of the iD editor. This is followed by showing some of the used software development design patterns in form of examples from the code base. Important development commands and contributing guidelines are also showcased. After this, a hands-on part follows which illustrates how a small feature would be implemented in iD. Finally, there will be also some time reserved for questions from the audience.
+
+The target audience for this workshop are people who know at least some programming and are potentially be interested into contributing a bug fix or implementing a small feature in the iD editor, as well as people who are just curious about how the iD editor is built under the hoods.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="9">Martin Raifer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="e22a4c5e-29ab-57cb-bfc9-2b59cf58db9b" id="19">
+        <date>2023-11-11T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>lightning-talks</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>LIGHTNING TALKS</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="347197b6-342a-5664-8f0c-5952a9694e73" id="24">
+        <date>2023-11-11T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Vasco Da Gama</room>
+        <slug>introducing-the-ohsomenow-stats-dashboard-a-workshop-for-measuring-your-impact</slug>
+        <url>https://stateofthemap.eu/program/introducing-the-ohsomenow-stats-dashboard-a-workshop-for-measuring-your-impact</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Introducing the ohsomeNow stats dashboard - a workshop for measuring your impact</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The ohsomeNow stats dashboard and API provide up-to-date and global scale overview statistics on mapping activity in OpenStreetMap. Join us in a workshop where you'll learn what the new dashboard is, a bit about its background, and how to use it to measure your impact across OSM.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="18">Benjamin Herfort &amp; Nicole Siggins</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="27a32ecb-b11d-5e98-8cd8-a2ec51ce6852" id="34">
+        <date>2023-11-11T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:00</duration>
+        <room>Vasco Da Gama</room>
+        <slug>how-to-put-an-entire-country-in-a-container-transportable-openstreetmap-data-integration-into-postgis-using-docker</slug>
+        <url>https://stateofthemap.eu/program/how-to-put-an-entire-country-in-a-container-transportable-openstreetmap-data-integration-into-postgis-using-docker</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>How to put an entire country in a container: transportable OpenStreetMap data integration into Postgis using docker</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The presentation will spotlight the effective usage of the imposm command-line tool in synergy with Docker within an OpenStreetMap data pipeline, with a specific focus on integrating it with a PostGIS database.
+The talk will delve into imposm's adeptness in seamlessly importing OSM data into the PostGIS spatial database system, bolstered by Docker's encapsulated and transportable runtime environment.
+By harnessing imposm's robust schema mapping and data transformation capabilities alongside Docker's containerization advantages, the presentation will showcase how this combination allows speed, scalability, and replicability of OpenStreetMap data processing workflows, particularly in the context of PostGIS database utilization.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="28">Benjamin Deswysen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="5f7c3f31-7669-51e9-ab74-54fd8a2baad4" id="37">
+        <date>2023-11-11T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>lightning-talks1</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>LIGHTNING TALKS</title>
+        <subtitle></subtitle>
+        <track>Tech Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2023-11-12" start="2023-11-12T08:30:00+01:00" end="2023-11-12T17:00:00+01:00">
+    <room name="Marco Polo">
+      <event guid="d28052a5-fd45-530c-8575-a130ca3b3034" id="42">
+        <date>2023-11-12T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>maintaining-openstreetmap-org</slug>
+        <url>https://stateofthemap.eu/program/maintaining-openstreetmap-org</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Maintaining OpenStreetMap.org</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>I volunteer as a maintainer for the "openstreetmap-website" project - the open-source code that powers the website, the API and the core database for OpenStreetMap. But what exactly does being a maintainer involve?
+
+In this talk I'll be showing you behind the scenes. What do I work on in a typical week? How do I choose what to do? What makes a topic worth working on? How do I deal with the endless backlog of open issues and pull requests?
+
+I'll also be delving into some recent changes that we've made, along with giving you some inspiration to get you involved in the translation, design, and development work.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="32">Andy Allan</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="883bc679-5cbf-5bfa-ae9a-38e3f6d79a87" id="46">
+        <date>2023-11-12T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>openstreetmap-and-overture-the-case-for-collaboration</slug>
+        <url>https://stateofthemap.eu/program/openstreetmap-and-overture-the-case-for-collaboration</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OpenStreetMap and Overture: The case for collaboration</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Overture Maps will be almost a year old at the time of SOTM-Europe This presentation will give a look at Overture, why it was founded, where it is headed and the case for collaboration to expand the availability and use of open map data.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="35">Marc Prioleau</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="f3cc1728-f0ae-510d-b9d1-9477e9394958" id="49">
+        <date>2023-11-12T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>openstreetmap-foundation-s-budget-and-expenditures</slug>
+        <url>https://stateofthemap.eu/program/openstreetmap-foundations-budget-and-expenditures</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OpenStreetMap Foundation's budget and expenditures</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The OpenStreetMap Foundation is the organization that guards and legally owns the OpenStreetMap data. Every now and then people wonder what it costs to run OpenStreetMap and where the money goes, in particular as we currently run a fundraising drive to ensure the existence of OpenStreetMap in the near future.
+
+We will go through the current budget, compare that with the actual expenditures, and have a look at the reserves. This way we will show how the current strategy of the OpenStreetMap Foundation manifests by the expenses.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="19">Roland Olbricht</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="4bfe6a60-6b02-50c2-8340-958770b82423" id="53">
+        <date>2023-11-12T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>openstreetmap-almost-at-20-reflections-and-future-predictions</slug>
+        <url>https://stateofthemap.eu/program/openstreetmap-almost-at-20-reflections-and-future-predictions</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OpenStreetMap (almost) at 20: Reflections and Future Predictions</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>As OSM approaches its 20th birthday, what has gone well, ok and badly? What does the future hold?</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="40">Steve Coast</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="8f7e556c-c748-59e9-96b1-dbda97d0f005" id="57">
+        <date>2023-11-12T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Marco Polo</room>
+        <slug>osmf-board-ama</slug>
+        <url>https://stateofthemap.eu/program/osmf-board-ama</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OSMF Board AMA</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA). We will take questions from the audience, or other questions that people can submit before the event, and we will talk about and answer them. We can talk about the past actions of the board, and what future plans we have.
+
+This is a chance to ask the OSM Foundation Board questions, to engage with the board. Let’s have a conversation about the Foundation, the Board and how all the parts work together. If you know nothing about what the board is doing, this is a chance to find out. Find out what the Foundation does and doesn’t do, what it can and can’t do. Find out how you can help, how you can get involved. The Board is committed to openness and wants to engage with the community.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="43">OSMF Board</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="a8b56689-b6b6-5d28-a152-33e79bfa6b16" id="63">
+        <date>2023-11-12T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Marco Polo</room>
+        <slug>points-of-interest-anyone</slug>
+        <url>https://stateofthemap.eu/program/points-of-interest-anyone</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Points of Interest Anyone?</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Does OpenStreetMap and its community even need shops and amenities on the map?
+
+Weird question, I know. But let's look closer at everything POI on the map imply. The community has always slowed down imports — without which it's impossible to get a good coverage. It treats shops and amenities tagging as an afterthought: proposals for these are much more rare than for linear features like power lines and railways. Mapping these has always been hard, and besides dozens of editors existing, only one does it good enough. Many important features, like freshness, get overlooked. And what about reviews and other community validation?
+
+It's all too hard. Maybe we shouldn't even spend our time and thought on POI, and keep making the best base map for other companies to put POI on it?</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="54">Ilya Zverev</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="dcc8a0ac-6623-5a8c-beb7-c737797a44a3" id="67">
+        <date>2023-11-12T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>Marco Polo</room>
+        <slug>10-years-of-power-infrastructure-mapping-what-s-next</slug>
+        <url>https://stateofthemap.eu/program/10-years-of-power-infrastructure-mapping-whats-next</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>10 years of power infrastructure mapping: what's next?</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Power infrastructure mapping is a thing in OpenStreetMap in many countries, especially in Europe. Community has been continuously improving data and tagging as well despite a very technical topic like many others. We can now take a step about the ten last years, consider some further improvements or partnership with operators and finally see how it is valuable for the whole community.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="58">François Lacombe</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="78697041-5e4b-50ae-a8a8-61497d945f27" id="74">
+        <date>2023-11-12T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Marco Polo</room>
+        <slug>closing-session</slug>
+        <url>https://stateofthemap.eu/program/closing-session</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Closing Session</title>
+        <subtitle></subtitle>
+        <track>Node Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Join us for a closing session with our State of the Map Europe team.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="63">SotM EU Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Orangerie">
+      <event guid="b804765b-5d3b-5631-8506-4c8fc1973453" id="43">
+        <date>2023-11-12T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>nominatim-on-your-laptop</slug>
+        <url>https://stateofthemap.eu/program/nominatim-on-your-laptop</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Nominatim on your laptop</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The search engine Nominatim may be known by many from the search box on OpenStreetMap's main website. But it is also a software you can simply install and use on your own computer. The latest release of Nominatim comes with a Python library that makes it even easier to use locally. This talks demonstrates how to bring search in OSM data to your laptop and shows some tricks how to make the most of the data.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="6">Sarah Hoffmann</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="3d5cee02-3ace-52ed-a615-b42826ca068b" id="47">
+        <date>2023-11-12T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Orangerie</room>
+        <slug>stadia-x-stamen-a-new-era-for-stamen-map-tiles</slug>
+        <url>https://stateofthemap.eu/program/stadia-x-stamen-a-new-era-for-stamen-map-tiles</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Stadia x Stamen: A New Era for Stamen Map Tiles</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The renowned Stamen Map Tiles, after more than a decade of being used and loved by digital cartographers the world over, have received a facelift. Together, Stamen and Stadia Maps created all new vector versions of Toner and Terrain based on the modern mapping stack of open data and an open source toolbox of vector tiles and styles, while preserving backward compatibility for existing users. We will discuss the technical challenges to creating an affordable map tiling service at scale and provide some perspective on how OSM-based digital cartography has changed since these tilesets were originally created.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="36">Luke Seelenbinder &amp; Stephanie May</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="b5271a84-190e-579e-a7f4-87ce8cb97382" id="54">
+        <date>2023-11-12T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>working-together-for-a-more-coherent-integration-of-eurovelo-routes-on-openstreetmap</slug>
+        <url>https://stateofthemap.eu/program/working-together-for-a-more-coherent-integration-of-eurovelo-routes-on-openstreetmap</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Working together for a more coherent integration of EuroVelo routes on OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>EuroVelo, the network of long-distance cycle routes that cross and connect Europe, is promoted on www.EuroVelo.com and included on OpenStreetMap, but there is no connection between these platforms and no collaboration between the EuroVelo team and the OpenStreetMap communities. We would like to propose the creation of a transnational group to work together on a more coherent integration of EuroVelo routes on OSM, particularly through harmonising the tagging across countries. This will improve the dissemination of updated information on various platforms and facilitate the gathering of GIS data related to each route, which allows for identifying where improvements are required, and ultimately helps the development of a high-quality cycle route network.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="41">Florence Grégoire</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="4fb749d0-cbea-5402-9663-fe7245d739fa" id="58">
+        <date>2023-11-12T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>un-maps-learning-hub-a-multi-lingual-educational-platform-on-osm</slug>
+        <url>https://stateofthemap.eu/program/un-maps-learning-hub-a-multi-lingual-educational-platform-on-osm</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>UN Maps Learning Hub: a multi-lingual educational platform on OSM</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>UN Maps, a program within the United Nations Global Service Centre (UNGSC), released during SotM 2022 an online learning platform, the UN Maps Learning Hub, to guide new and seasoned OpenStreetMap users in the discovery of mapping and community practices and new tools.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="44">Rachele Amerini</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="3995df62-45d1-5b89-8c54-6f2ad2851a37" id="60">
+        <date>2023-11-12T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>utilizing-crowdsourced-mapping-to-enhance-food-security-among-lower-omo-agro-pastoralists-in-ethiopia</slug>
+        <url>https://stateofthemap.eu/program/utilizing-crowdsourced-mapping-to-enhance-food-security-among-lower-omo-agro-pastoralists-in-ethiopia</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Utilizing Crowdsourced Mapping to Enhance Food Security Among Lower OMO Agro-Pastoralists in Ethiopia</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In the Lower Omo Valley in Ethiopia, a food security crisis is unfolding. According to the Famine Early Warning Systems Network (FEWSNET), the situation in the area has passed ‘stressed’ to reach the ‘crisis’ stage. Against this background, we have been supporting a few affected agro-pastoralists
+communities in mapping the facilities and the natural resources, as part of an effort to better manage these resources and provide evidence to assess the scale of the disaster. The results from a pilot project (2021) demonstrate that the data generated by those affected is more accurate, complete, and locally relevant than authoritative maps or global machine-generated maps.
+
+The Crowdmapping For Food Security in OMO Zone of Ethiopia Project aimed to support agro-pastoralist communities in mapping the natural resources and facilities they have access to and monitoring the state of such resources. The project further integrates the land user-generated data (in full or partially, depending on the communities’ decision) into OpenStreetMap.
+
+The project also brought multiple groups together with distinct capabilities and knowledge, including OSM Ethiopia, the Humanitarian OpenStreetMap Team, YouthMappers, and the University College of London, who have come together to create the project's success. The project has already had a significant impact on the lives of those impacted by the food security crisis, improving circumstances and offering much-needed support. Furthermore, engaging and empowering youth to contribute to good change in their communities is a major goal of the project. This collaborative, multi-stakeholder approach has made it possible to achieve these goals.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="46">Binyam Dele</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="514f404f-4649-570b-97b9-997c3f90aecd" id="64">
+        <date>2023-11-12T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>ramani-maps-a-new-android-compose-library-for-mapbox-and-maplibre</slug>
+        <url>https://stateofthemap.eu/program/ramani-maps-a-new-android-compose-library-for-mapbox-and-maplibre</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Ramani-Maps: a new Android Compose library for Mapbox and MapLibre</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Ramani-Maps is a new open source maps library exposing an Android Jetpack Compose interface to manipulate Mapbox and MapLibre. It was first created because neither Mapbox nor MapLibre had a Compose interface, which has become the default on Android.
+
+We strive to maintain a nearly identical API between the Mapbox and MapLibre versions, ensuring effortless transition between the two.
+
+While Ramani-Maps supports standard static annotations such as markers, symbols, circles, polylines, and polygons, it emphasizes interactive map editing - an aspect often intricate in other libraries. Creating a user interface allowing users to define map areas (e.g. through interactive polygons) or paths (e.g. in a hiking app for planning routes) becomes remarkably simple with Ramani-Maps.
+
+Although the library is relatively new, it improves steadily. This presentation will show how Ramani-Maps works and what can be done with it.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="55">Jonas Vautherin</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="8910fcb8-5b80-54ea-a5f8-fa3dc2b54478" id="68">
+        <date>2023-11-12T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>exploring-taginfo</slug>
+        <url>https://stateofthemap.eu/program/exploring-taginfo</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Exploring taginfo</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>For over a decade now taginfo has been an invaluable tool for OSM mappers and data users, bringing together a lot of information about OSM tags in one place. For mappers it helps with finding suitable tags. For data users it helps with figuring out what data there is and how to use it.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="59">Jochen Topf</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="b9e15640-de3c-5ebb-8d00-5fa22e188e15" id="70">
+        <date>2023-11-12T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Orangerie</room>
+        <slug>mapy-cz-digital-traditional-hiking-map-of-the-whole-world</slug>
+        <url>https://stateofthemap.eu/program/mapy-cz-digital-traditional-hiking-map-of-the-whole-world</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mapy.cz – digital traditional hiking map of the whole World</title>
+        <subtitle></subtitle>
+        <track>Way Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Mapy.cz - most popular map portal and mobile phone app in Czech Republic and Slovakia with users over whole Europe visualizes OpenStreetMap data for whole World (except territory of Czech Republic). Main goal is to offer users map in a map key that they have been using for many years in paper form. In a map you can find all infrastructure and suprastructure for outdoor tourism – for hiking, cycling or winter tourism. App and map portal is for free. Map contains interactive points from OpenStreetMap with photos from users and Wikimedia Commons, texts from Wikipedia and additional information from Wikidata, which make map a comprehensive lexicon about our Earth.
+
+We would like to introduce map portal and app mapy.cz, features used in portal and app, focusing on use of OpenStreetMap data and other open data such as Wikipedia and Wikidata. We will describe process of creating and updating maps and data and mention feedback from milions of mapy.cz users, which can improve OpenStreetMap data as well.
+
+We will introduce you also our CSR activity – tactile maps as part of mapy.cz, which give blind people opportunity to read and navigate maps by touch. Worldwide and free. Built on OpenStreetMaps data.
+
+&lt;a href="https://en.mapy.cz/"&gt;mapy&lt;/a&gt;
+&lt;a href="https://tactilemaps.eu/"&gt;tactilemaps&lt;/a&gt;</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="61">Jakub Zmrzlik</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Outside">
+      <event guid="872005c3-1ccb-528a-8869-5b4214172c7d" id="39">
+        <date>2023-11-12T08:30:00+01:00</date>
+        <start>08:30</start>
+        <duration>01:00</duration>
+        <room>Outside</room>
+        <slug>walk-in-registration</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Walk-in &amp; Registration</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d9d8f8e5-4a26-5d50-b0c2-e864416ffff4" id="52">
+        <date>2023-11-12T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Outside</room>
+        <slug>break</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Break</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="2947b22e-1727-57de-800c-9f3bbf091a8b" id="62">
+        <date>2023-11-12T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Outside</room>
+        <slug>lunch</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Lunch</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="930e24c1-224f-5721-946c-219485ab3470" id="73">
+        <date>2023-11-12T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Outside</room>
+        <slug>break1</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Break</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Sacagawea">
+      <event guid="71a1ea7c-a924-58d9-b0c7-52771479b4f2" id="44">
+        <date>2023-11-12T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>using-openstreetmap-for-humanitarian-purposes-and-introduction-to-the-hot-tasking-manager</slug>
+        <url>https://stateofthemap.eu/program/using-openstreetmap-for-humanitarian-purposes-and-introduction-to-the-hot-tasking-manager</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Using OpenStreetMap for Humanitarian Purposes - and introduction to the HOT Tasking Manager</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Are you curious how OpenStreetMap can be used for humanitarian purposes for large scale mapping campaigns? Join this hands-on workshop to learn more about the Tasking Manager, how to use it and how to get started.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="33">Nicole Siggins</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d78f19af-5389-5271-947d-ea839e591781" id="50">
+        <date>2023-11-12T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Sacagawea</room>
+        <slug>lightning-talks</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>LIGHTNING TALKS</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="4ffabffc-9b44-5ec6-a542-4bd7cdc7e0d6" id="55">
+        <date>2023-11-12T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>mapping-pedestrian-network-accessibility-on-openstreetmap</slug>
+        <url>https://stateofthemap.eu/program/mapping-pedestrian-network-accessibility-on-openstreetmap</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mapping Pedestrian Network Accessibility on OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Accessibility matters affects people's lives on a daily basis. OSM ecosystem got all the tools for the mapping of the subject, concerning pedestrian networks. The mapping of sidewalks, that are the most frequent kind of pedestrian path, as separated geometries enables for richness of information and routing with the correct path length and connections. Still lots of people among OSM community are shy about the mapping of pedestrian networks. This kind of mapping benefits a lot from terrestrial imagery such as Mappilary that can be used for the inference of many fundamental attributes.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="34">Kauê de Moraes Vestena</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="be18a005-ed44-50bd-a0f9-43c7fdb8cc81" id="65">
+        <date>2023-11-12T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Sacagawea</room>
+        <slug>mapcomplete-progress-and-presenting-mapcomplete-studio</slug>
+        <url>https://stateofthemap.eu/program/mapcomplete-progress-and-presenting-mapcomplete-studio</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>MapComplete - progress and presenting MapComplete Studio</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>MapComplete -an easy to use, web-based thematic editor- has been around for three years now. Thanks to NlNet, some big changes happened.
+
+This talk will give a short outline and history of MapComplete and talk about some of the recent changes. It'll go in depth on how you can quickly create your own maps with the brand-new MapComplete Studio.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="56">Pieter Vander Vennet</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="eed4a2dc-7afe-5deb-bcf4-0256e6bec978" id="71">
+        <date>2023-11-12T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sacagawea</room>
+        <slug>lightning-talks1</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>LIGHTNING TALKS</title>
+        <subtitle></subtitle>
+        <track>Relation Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vasco Da Gama">
+      <event guid="9d33f5e3-b1b2-582f-a187-3abf1d8fb34e" id="40">
+        <date>2023-11-12T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>welcome-introduction-to-osm-science-2023</slug>
+        <url>https://stateofthemap.eu/program/welcome-introduction-to-osm-science-2023osm-science-lightning-talks</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Welcome &amp; Introduction to OSM Science 2023</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Assessing Bike-Transit Accessibility</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="31">by OSM Science 2023 Scientific Committee</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="1f1a91b2-c3eb-5bd7-bc68-339608d67f9a" id="41">
+        <date>2023-11-12T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>welcome-introduction-to-osm-science-20231</slug>
+        <url>https://stateofthemap.eu/program/welcome-introduction-to-osm-science-2023osm-science-lightning-talks</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Welcome &amp; Introduction to OSM Science 2023</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Assessing Bike-Transit Accessibility</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="31">by OSM Science 2023 Scientific Committee</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="27ca8033-421d-56bd-be59-f2f61fdc6f23" id="45">
+        <date>2023-11-12T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>fostering-osms-micromapping-through-combined-use-of-artificial-intelligence-and-street-view-imagery</slug>
+        <url>https://stateofthemap.eu/program/fostering-osms-micromapping-through-combined-use-of-artificial-intelligence-and-street-view-imagery</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Fostering OSM’s Micromapping Through Combined Use of Artificial Intelligence and Street-View Imagery</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>This work focuses on micromapping using street-view imagery and AI techniques to enhance OpenStreetMap (OSM). Micromapping involves mapping small geographic objects and has applications in infrastructure, security, 3D modeling, and more. Despite OSM's vast data, micromapping remains limited. The proposed methodology combines AI-based semantic segmentation and monocular depth estimation to accelerate OSM data generation. The process involves selecting an image, segmenting objects, generating 3D patches, and translating them into OSM data. Testing and future work involve accuracy improvement and data integration challenges. This approach can enrich OSM, enabling diverse applications and addressing specific urban needs.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="34">Kauê de Moraes Vestena</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="194d5b4c-26bb-5878-8fc0-fac845ddf626" id="48">
+        <date>2023-11-12T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>global-and-regional-level-of-use-of-buildings-and-roads-prepared-by-ai-for-osm-mapping</slug>
+        <url>https://stateofthemap.eu/program/global-and-regional-level-of-use-of-buildings-and-roads-prepared-by-ai-for-osm-mapping</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Global and regional level of use of buildings and roads prepared by AI for OSM mapping</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Despite the hard work of volunteers, OpenStreetMap is still poorly mapped in many parts of the world. Using AI-assisted tools was seen as one possibility to fill data gaps. We search the actual level of AI-assisted mapping, show the overall global level and highlight differences between countries and regions and their temporal evolution. In 2021-2023, a minimum of 5.6% of buildings and 0.8% of principal roads newly created in OSM came from AI-assisted mapping workflow.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="37">Benjamin Herfort</person>
+          <person id="38">Milan Fila &amp; Radim Štampach</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="5400fa97-db52-5367-af15-10342bfa1e32" id="51">
+        <date>2023-11-12T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>bikedna-a-tool-for-bicycle-infrastructure-data-network-assessment</slug>
+        <url>https://stateofthemap.eu/program/bikedna-a-tool-for-bicycle-infrastructure-data-network-assessment</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>BikeDNA: A Tool for Bicycle Infrastructure Data &amp; Network Assessment</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>We present the open-source tool BikeDNA, developed for reproducible quality assessments of bicycle infrastructure data, and tailored to the OSM data model.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="39">Ane Rahbek Vierø</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="14352a0d-e01d-550a-85d4-3ec7853e449e" id="56">
+        <date>2023-11-12T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>towards-an-open-high-resolution-land-use-dataset-in-great-britain-comparing-and-consolidating-retail-centre-areas-from-open-data-sources</slug>
+        <url>https://stateofthemap.eu/program/towards-an-open-high-resolution-land-use-dataset-in-great-britain-comparing-and-consolidating-retail-centre-areas-from-open-data-sources</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Towards an Open High-Resolution Land Use Dataset in Great Britain - Comparing and Consolidating Retail Centre Areas from Open Data Sources</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>This analysis shows there is considerable potential for geolocated open Energy Performance Certificate (EPCs) data to improve the designation of retail land-use areas on OpenStreetMap in Great Britain. A number of omissions are identified by comparing EPCs, a new open retail centres product from the Consumer Data Research Centre, and OpenStreetMap itself.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="42">Oliver O'Brien</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="26f9a018-4601-5daf-a064-de97c06bec63" id="59">
+        <date>2023-11-12T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>a-contemporary-nolli-map-using-openstreetmap-data-to-represent-urban-public-spaces</slug>
+        <url>https://stateofthemap.eu/program/a-contemporary-nolli-map-using-openstreetmap-data-to-represent-urban-public-spaces</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>A Contemporary Nolli Map: Using OpenStreetMap Data to Represent Urban Public Spaces</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Space in cities is contested and public space is an important resource for the urban society in this context. Against the background of social justice, sufficient and fairly distributed public space in a city is to be strived for. In order to investigate the status quo of spatial distribution and availability of public spaces, this research develops a framework and Python script for identifying, categorizing and ultimately mapping public spaces using OSM data. The work is inspired by the historical Nolli map from Rome and the framework is applied to case studies in Vienna.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="45">Ester Scheck</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d45c1feb-46e4-58cb-8329-6344f980aa0b" id="61">
+        <date>2023-11-12T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>osm-science-lightning-talks</slug>
+        <url>https://stateofthemap.eu/program/osm-science-lightning-talks</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>OSM SCIENCE LIGHTNING TALKS</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>SPOT: A Natural Language Interface for Geospatial Searches in OSM</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="47">Lynn Khellaf</person>
+          <person id="48">Mark Herringer</person>
+          <person id="49">Yao Sun</person>
+          <person id="50">Hao Li</person>
+          <person id="51">Piotr Gramacki</person>
+          <person id="52">Kamil Raczycki &amp; Kacper Leśniara</person>
+          <person id="53">&amp; Alistair Geddes</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="2a8e8808-3c81-51b2-bdba-b7622851e2df" id="66">
+        <date>2023-11-12T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>social-technical-and-political-transformations-in-openstreetmap-from-volunteered-geographic-information-to-embedding-digital-commons-in-platform-capitalism</slug>
+        <url>https://stateofthemap.eu/program/social-technical-and-political-transformations-in-openstreetmap-from-volunteered-geographic-information-to-embedding-digital-commons-in-platform-capitalism</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Social, technical and political transformations in OpenStreetMap- From volunteered geographic information to embedding digital commons in platform capitalism</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>OpenStreetMap has undergone many changes since its beginnings. Coming from social and digital geography, this contribution focuses on the social, technical, and political changes within the project over the past few years. As OpenStreetMap grows, new challenges emerge for the project, the data, and the community as a whole. One of those challenges arises from the growing role of institutional/commercial actors. When understood as a digital commons, OpenStreetMap is characterized as relatively resilient and independent of other interested parties, allowing the project to continue to assert itself as an alternative in the larger context of the geospatial data industry.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="57">Susanne Schröder-Bergen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="321e908b-583d-58c4-8a0e-e9fb78c38799" id="69">
+        <date>2023-11-12T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>a-global-and-dynamic-completeness-assessment-of-the-openstreetmap-buildings</slug>
+        <url>https://stateofthemap.eu/program/a-global-and-dynamic-completeness-assessment-of-the-openstreetmap-buildings</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>A global and dynamic completeness assessment of the OpenStreetMap buildings</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>We calculated the completeness of all OpenStreetMap buildings with a reference to Earth Observation datasets and kept it up-to-date with each change in the dataset</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="60">Laurens Oostwegel</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="ac4f0427-c496-51eb-b8bb-8542efd908de" id="72">
+        <date>2023-11-12T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Vasco Da Gama</room>
+        <slug>improving-the-accuracy-of-earthquake-risk-estimates-with-openstreetmap-building-data</slug>
+        <url>https://stateofthemap.eu/program/improving-the-accuracy-of-earthquake-risk-estimates-with-openstreetmap-building-data</url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Improving the accuracy of earthquake risk estimates with OpenStreetMap building data</title>
+        <subtitle></subtitle>
+        <track>OSM Science Track</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>We improve the accuracy of earthquake loss estimation by increasing the information content of models describing the building stock. This is done using OpenStreetMap building properties (number of stories and occupancy) and results in significantly more accurate damage assessment due to better knowledge of the buildings affected by earthquakes.</abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="62">Tara Evaz Zadeh</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+</schedule>
